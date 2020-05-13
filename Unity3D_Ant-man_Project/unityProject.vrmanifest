@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unity3d_antman_project.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\FET\\VR_Lab\\Unity_Project\\Unity3D_Ant-man_Project\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Unity3D_Ant-man_Project [Testing]"
+        }
+      }
+    }
+  ]
+}
